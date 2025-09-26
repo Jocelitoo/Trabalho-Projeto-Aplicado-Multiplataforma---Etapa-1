@@ -6,11 +6,9 @@
 
 4. Objetivo do sistema: Trazer mais visibilidade para as ONGS de Fortaleza, tanto no sentido de informações sobre elas quanto nas suas necessidades de materiais e voluntáriado.
 
-5. Escopo do projeto:
+5. Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
 
-5.1. Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
-
-5.2. Entregas do projeto:
+6. Entregas do projeto:
 
 - Pagina inicial (home)
 - Página de Login / registro
@@ -21,11 +19,11 @@
 - Layout responsivo
 - Redirecionamento para as redes sociais das ONGS
 
-  5.3. Fora do escopo:
+7. Fora do escopo:
 
 - Doação de valores não serão feitas através do site
 
-6. Tecnologias propostas:
+8. Tecnologias propostas:
 
 - Frameworks: Next.js e tailwind
 - Libs: react, shadcn, zod, next-auth, bcrypt, prisma, cloudinary, dayjs
@@ -33,11 +31,11 @@
 - Banco de dados: MongoDB
 - Banco de imagens: Cloudinary
 
-7. Visão geral da arquitetura: Client-server
+9. Visão geral da arquitetura: Client-server
 
-8. Diagrama da arquitetura: [ Cliente - Navegador ] --> [ Servidor Next.js ] --> (Entrega frontend (SSR/SSG), Server actions) --> [ Servidor de Banco de Dados (MongoDB) e banco de Imagens (Cloudinary)]
+10. Diagrama da arquitetura: [ Cliente - Navegador ] --> [ Servidor Next.js ] --> (Entrega frontend (SSR/SSG), Server actions) --> [ Servidor de Banco de Dados (MongoDB) e banco de Imagens (Cloudinary)]
 
-9. Cronograma para Etapa 2 (N708):
+11. Cronograma para Etapa 2 (N708):
 
 - Criação manual de dados ficticios de ONGS em um arquivo
 - Criação do Header e Footer
@@ -66,7 +64,7 @@
 - Verificar como está o site em telas menores
 - Verificar a velocidade do site com o Lighthouse
 
-10. Integrantes da equipe e seus papéis:
+12. Integrantes da equipe e seus papéis:
 
 - Italo -> Responsável pela página principal (Home)
 - Daniel -> Responsável pelos formulários de login / registro
