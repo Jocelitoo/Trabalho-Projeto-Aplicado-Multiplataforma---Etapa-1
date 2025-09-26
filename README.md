@@ -10,14 +10,15 @@ Escopo do projeto:
 -1.Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
 
 -2.Entregas do projeto:
---Pagina inicial (home)
---Página de Login / registro
---Página minha ONG (para criação, edição ou exclusão da ONG)
---Página com a lista de usuários, permitindo exclusão e edição (exclusivo para o admin)
---Página com a lista de ONGS criadas, permitindo exclusão (exclusivo para o admin)
---Página com as informações da ONG escolhida
---Layout responsivo
---Redirecionamento para as redes sociais das ONGS
+
+- Pagina inicial (home)
+- Página de Login / registro
+- Página minha ONG (para criação, edição ou exclusão da ONG)
+- Página com a lista de usuários, permitindo exclusão e edição (exclusivo para o admin)
+- Página com a lista de ONGS criadas, permitindo exclusão (exclusivo para o admin)
+- Página com as informações da ONG escolhida
+- Layout responsivo
+- Redirecionamento para as redes sociais das ONGS
 
 -3.Fora do escopo:
 
@@ -65,9 +66,10 @@ Cronograma para Etapa 2 (N708):
 - Verificar a velocidade do site com o Lighthouse
 
 Integrantes da equipe e seus papéis:
-Italo -> Responsável pela página principal (Home)
-Daniel -> Responsável pelos formulários de login / registro
-Neto -> Responsável por configurar o banco de dados com o prisma
-Jocelito -> Responsável pelas requisições feitas pelo Server Actions
-Kaio -> Responsável por criar a página que traz informações sobre a ONG e garantir a otimização do site
-Juliana -> Responsável por verificar a responsividade e corrigir erros
+
+- Italo -> Responsável pela página principal (Home)
+- Daniel -> Responsável pelos formulários de login / registro
+- Neto -> Responsável por configurar o banco de dados com o prisma
+- Jocelito -> Responsável pelas requisições feitas pelo Server Actions
+- Kaio -> Responsável por criar a página que traz informações sobre a ONG e garantir a otimização do site
+- Juliana -> Responsável por verificar a responsividade e corrigir erros
