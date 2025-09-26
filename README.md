@@ -20,7 +20,8 @@ Escopo do projeto:
 --Redirecionamento para as redes sociais das ONGS
 
 -3.Fora do escopo:
---Doação de valores não serão feitas através do site
+
+- Doação de valores não serão feitas através do site
 
 Tecnologias propostas:
 
