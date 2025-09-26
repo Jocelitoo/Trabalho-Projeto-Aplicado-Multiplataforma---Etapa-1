@@ -8,9 +8,9 @@
 
 5. Escopo do projeto:
 
--5.1. Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
+5.1. Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
 
--5.2. Entregas do projeto:
+5.2. Entregas do projeto:
 
 - Pagina inicial (home)
 - Página de Login / registro
@@ -21,7 +21,7 @@
 - Layout responsivo
 - Redirecionamento para as redes sociais das ONGS
 
--5.3. Fora do escopo:
+  5.3. Fora do escopo:
 
 - Doação de valores não serão feitas através do site
 
