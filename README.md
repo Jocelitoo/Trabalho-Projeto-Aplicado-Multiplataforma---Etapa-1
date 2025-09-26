@@ -7,6 +7,7 @@ Problema abordado e justificativa: As informações a cerca das ONGS são extrem
 Objetivo do sistema: Trazer mais visibilidade para as ONGS de Fortaleza, tanto no sentido de informações sobre elas quanto nas suas necessidades de materiais e voluntáriado.
 
 Escopo do projeto:
+
 -1.Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
 
 -2.Entregas do projeto:
