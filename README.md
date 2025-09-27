@@ -47,7 +47,7 @@
 
 10. Diagrama da arquitetura:
 
-![Diagrama_arquitetura](../images/Diagrama_arquitetura.jpg)
+![Diagrama_arquitetura](docs/images/Diagrama_arquitetura.jpg)
 
 11. Cronograma para Etapa 2 (N708):
 
