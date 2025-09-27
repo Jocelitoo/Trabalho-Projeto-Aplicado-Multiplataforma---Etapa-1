@@ -25,6 +25,10 @@ Regras de negócio:
 - Apenas o Admin poderá remover um usuário
 - Se o usuário for Admin, não poderá criar uma ONG
 
-Casos de Uso: ![Casos_de_Uso](../images/Casos_de_Uso.jpg)
+Casos de Uso:
 
-Perfis de usuários: Serão coletados dados dos usuários autenticados (criadores de ONGS), através deles poderemos analisar as categórias, as necessidades de itens e de voluntários mais comuns para as ONGS, além dos bairros de Fortaleza com a maior quantidade de ONGS. Com esses dados, ações voltadas para suprir as necessidade de cada ONG podem ser desenvolvidas futuramente
+![Casos_de_Uso](../images/Casos_de_Uso.jpg)
+
+Perfis de usuários:
+
+- Serão coletados dados dos usuários autenticados (criadores de ONGS), através deles poderemos analisar as categórias, as necessidades de itens e de voluntários mais comuns para as ONGS, além dos bairros de Fortaleza com a maior quantidade de ONGS. Com esses dados, ações voltadas para suprir as necessidade de cada ONG podem ser desenvolvidas futuramente
