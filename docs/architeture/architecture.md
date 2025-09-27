@@ -31,6 +31,7 @@ Padrões arquiteturais utilizados:
 - Client Server
 
 Diagrama de arquitetura:
+
 ![Diagrama_arquitetura](../images/Diagrama_arquitetura.jpg)
 
 Decisões técnicas e justificativas:
