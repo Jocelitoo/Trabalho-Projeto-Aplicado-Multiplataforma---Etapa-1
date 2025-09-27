@@ -1,21 +1,37 @@
-Descrição da arquitetura: Na arquitetura Cliente-Servidor. O Cliente se refere a qualquer dispositivo (computador, smartphone ou tablet) que através da página web inicia a comunicação solicitando um recurso ao servidor. O Servidor nesse projeto será o servidor do Next.js que receberá a soliticação da página web e ira interagir com o banco de dados podendo retornar para a página web os dados ou alterar, criar e deletar. Além disso, o servidor também poderá interagir com o banco de imagens (cloudinary)
+Descrição da arquitetura:
 
-Componentes do sistema:
--Interface: Header, Footer, Home, Sobre, Login, Registrar-se, usuários, ongs
+- Na arquitetura Cliente-Servidor. O Cliente se refere a qualquer dispositivo (computador, smartphone ou tablet) que através da página web inicia a comunicação solicitando um recurso ao servidor. O Servidor nesse projeto será o servidor do Next.js que receberá a soliticação da página web e ira interagir com o banco de dados podendo retornar para a página web os dados ou alterar, criar e deletar. Além disso, o servidor também poderá interagir com o banco de imagens (cloudinary)
 
--Servidor: Next.js + Node.js
+Interface:
 
--Banco de dados: MongoDB
+- Header, Footer, Home, Sobre, Login, Registrar-se, usuários, ongs
 
--Banco de imagems: Cloudinary
+Servidor:
 
--Usuários: Admin, usuários autenticados (logados) e visitantes (usuários não logado)
+- Next.js + Node.js
 
--Infraestrutura: Hospedar na Vercel (ótimo para projetos Next.js)
+Banco de dados:
 
-Padrões arquiteturais utilizados: Client Server
+- MongoDB
 
-Diagrama de arquitetura: ![Diagrama_arquitetura](../images/Diagrama_arquitetura.jpg)
+Banco de imagems:
+
+- Cloudinary
+
+Usuários:
+
+- Admin, usuários autenticados (logados) e visitantes (usuários não logado)
+
+Infraestrutura:
+
+- Hospedar na Vercel (ótimo para projetos Next.js)
+
+Padrões arquiteturais utilizados:
+
+- Client Server
+
+Diagrama de arquitetura:
+![Diagrama_arquitetura](../images/Diagrama_arquitetura.jpg)
 
 Decisões técnicas e justificativas:
 
