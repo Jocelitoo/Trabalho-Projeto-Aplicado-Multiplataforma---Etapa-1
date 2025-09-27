@@ -1,12 +1,22 @@
-1. Título do projeto: ConectaONG
+1. Título do projeto:
 
-2. Descrição do projeto: O ConectaONG é uma plataforma que tem o objetivo de conectar, de forma simples, usuários às ONGS de Fortaleza, apresentando suas necessidades de voluntários, itens e canais de contato. Com o ConectaONG, em poucos segundos qualquer pessoa poderá acessar informações da ONG escolhida, como endereço, voluntários necessários, itens em falta e formas de contato. Da mesma forma, as ONGS poderão se cadastrar e atualizar suas informações de maneira prática.
+- ConectaONG
 
-3. Problema abordado e justificativa: As informações a cerca das ONGS são extremamente escassas e o problema fica ainda maior quando queremos saber as necessidades delas. O problema que queremos solucionar é justamente essa dificuldade para encontramos informações sobre as ONGS.
+2. Descrição do projeto:
 
-4. Objetivo do sistema: Trazer mais visibilidade para as ONGS de Fortaleza, tanto no sentido de informações sobre elas quanto nas suas necessidades de materiais e voluntáriado.
+- O ConectaONG é uma plataforma que tem o objetivo de conectar, de forma simples, usuários às ONGS de Fortaleza, apresentando suas necessidades de voluntários, itens e canais de contato. Com o ConectaONG, em poucos segundos qualquer pessoa poderá acessar informações da ONG escolhida, como endereço, voluntários necessários, itens em falta e formas de contato. Da mesma forma, as ONGS poderão se cadastrar e atualizar suas informações de maneira prática.
 
-5. Objetivo do projeto: Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
+3. Problema abordado e justificativa:
+
+- As informações a cerca das ONGS são extremamente escassas e o problema fica ainda maior quando queremos saber as necessidades delas. O problema que queremos solucionar é justamente essa dificuldade para encontramos informações sobre as ONGS.
+
+4. Objetivo do sistema:
+
+- Trazer mais visibilidade para as ONGS de Fortaleza, tanto no sentido de informações sobre elas quanto nas suas necessidades de materiais e voluntáriado.
+
+5. Objetivo do projeto:
+
+- Desenvolvedor um site fácil de usar que conecta o público às ONGS da cidade e suas necessidades.
 
 6. Entregas do projeto:
 
@@ -33,7 +43,9 @@
 
 9. Visão geral da arquitetura: Client-server
 
-10. Diagrama da arquitetura: [ Cliente - Navegador ] --> [ Servidor Next.js ] --> (Entrega frontend (SSR/SSG), Server actions) --> [ Servidor de Banco de Dados (MongoDB) e banco de Imagens (Cloudinary)]
+10. Diagrama da arquitetura:
+
+- [ Cliente - Navegador ] --> [ Servidor Next.js ] --> (Entrega frontend (SSR/SSG), Server actions) --> [ Servidor de Banco de Dados (MongoDB) e banco de Imagens (Cloudinary)]
 
 11. Cronograma para Etapa 2 (N708):
 
