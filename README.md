@@ -47,7 +47,7 @@
 
 10. Diagrama da arquitetura:
 
-- [ Cliente - Navegador ] --> [ Servidor Next.js ] --> (Entrega frontend (SSR/SSG), Server actions) --> [ Servidor de Banco de Dados (MongoDB) e banco de Imagens (Cloudinary)]
+![Diagrama_arquitetura](../images/Diagrama_arquitetura.jpg)
 
 11. Cronograma para Etapa 2 (N708):
 
