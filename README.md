@@ -41,7 +41,9 @@
 - Banco de dados: MongoDB
 - Banco de imagens: Cloudinary
 
-9. Visão geral da arquitetura: Client-server
+9. Visão geral da arquitetura:
+
+- Client-server
 
 10. Diagrama da arquitetura:
 
